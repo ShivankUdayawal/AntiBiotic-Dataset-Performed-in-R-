@@ -1,5 +1,5 @@
-# AntiBiotic-Dataset-
-Classify Suspected Infection in Patients (MedTourEasy)
+# AntiBiotic Dataset
+## Classify Suspected Infection in Patients (MedTourEasy)
 
 ## Patient may have sepsis
 Sepsis is a deadly syndrome where a patient has a severe infection that causes organ failure. The sooner septic patients are treated, the more likely they are to survive, but sepsis can be challenging to recognize. It may be possible to use hospital data to develop machine learning models that could flag patients who are likely to be septic. However, before we develop predictive algorithms, we need a reliable method to determine patients who are septic. One component of sepsis is a severe infection.
